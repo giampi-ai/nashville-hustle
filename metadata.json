@@ -1,0 +1,6 @@
+{
+  "name": "Nashville Hustle",
+  "description": "A text-based economic simulation game where you buy and sell contraband to pay off a loan shark in 30 days. Inspired by the classic game 'Drug Wars', but set in Nashville, TN.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
